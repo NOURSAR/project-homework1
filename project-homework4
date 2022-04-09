@@ -1,0 +1,33 @@
+*index(homepage)
+-nav bar (all pages)
+#directs to search for parking
+#directs to login page
+
+*login page
+-directed from homepage
+-login(action)
+-directs to profile
+-directs to create a new account
+
+*map with search
+-directed from homepage
+-has a search bar and a drop down list
+-directs to requested search
+-action (search for address)
+
+*create an account
+
+*user's profile
+-delete an account
+-change password
+-directs to view saved parkings
+
+*View saved parkings list
+-save a parking spot
+-delete a spot
+-directs to new parking search 
+
+*Requested search with map 
+-travel to searche address
+-show distance and time
+
