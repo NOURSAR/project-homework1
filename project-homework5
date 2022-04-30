@@ -1,0 +1,42 @@
+# Project Proposal
+
+A website where users can search for free parking(on street parking).
+
+## Technologies Required
+
+- open source parking search https://www.parkinsf.com\get_parking/ (Main API)
+api documentation https://www.parkinsf.com/api-documentation
+
+- Open source API from DATASF (meters) https://data.sfgov.org/resource/8vzz-qzz9.json 
+
+## Data Model
+
+Link: https://dbdiagram.io/d/626b7b5495e7f23c6196cb80
+
+In your data model, make sure to include all necessary tables, fields and datatypes,
+primary keys, foreign keys, and indicate the relationships between the tables in a digram.
+
+Feel free to use one of the recommended tools linked in Resources below.
+
+## Roadmap
+
+### MVP
+
+- List 1 to 3 MVP features
+- On street parking srearch(main idea).
+- Meters, garages and parking lots search.
+
+### 2.0
+
+- List 1 to 3 "2.0" features
+- visualization and representation of the searched location on map
+
+### Nice-to-haves
+
+- List as many nice-to-have features as you'd like.
+- maps javascript
+- login page
+
+## Notes
+
+Replace this with anything else about the project.
